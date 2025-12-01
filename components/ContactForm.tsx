@@ -111,5 +111,5 @@ export default function ContactForm() {
         </motion.div>
       </div>
     </section>
-  </div>);
+  );
 }
